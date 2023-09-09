@@ -168,3 +168,77 @@ It sets the width to 91% of its parent's width and the height to 28% of its pare
 It gives it a background color of #b20403.
 It centers it horizontally and vertically with margin: auto;.
 It adds a box shadow and a border-radius with different values for each corner.
+# Box Model 2 HTML Page
+
+This HTML code demonstrates the use of the CSS Box Model to create various boxes within a web page. Each section represents a box with different content.
+
+## Table of Contents
+
+- [Description](#description)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+
+The HTML code in this repository showcases the concept of the CSS Box Model, which is fundamental for web layout design. Here's a brief overview of the sections within the HTML code:
+
+- **Outer Container**: The outermost `div` with the class `outer` represents a box.
+
+- **Inner Boxes**:
+  - `inner`: Contains an `<h1>` heading, making it a box with a heading.
+  - `inner2`: Contains a paragraph of text, making it a box with text content.
+  - `inner3`: Contains an unordered list (`<ul>`) with list items (`<li>`), demonstrating that lists can be styled as boxes too.
+
+- **Additional Elements**:
+  - A paragraph (`<p>`) with a button and a link, illustrating that even buttons and links are considered boxes in web design.
+
+## Usage
+
+To view and use this HTML code:
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone <repository_url>
+# CSS Styles for Box Model Layout
+
+This CSS code provides styling for a Box Model layout, creating various boxes with different properties. The code applies borders, margins, padding, and other CSS attributes to demonstrate the Box Model concept.
+
+## Table of Contents
+
+- [Description](#description)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+
+The CSS code in this repository showcases the concept of the CSS Box Model, which is fundamental in web design. It demonstrates the use of borders, margins, and padding to create structured layouts. Here's a brief overview of the CSS styles:
+
+- **Outer Container**: The `.outer` class defines a box with a red border, specific height and width, and margins.
+
+- **Inner Boxes**:
+  - `.inner`: A box with a red border, a specified height, and margins.
+  - `.inner2`: A box with a red border, margins, height, and padding.
+  - `.inner3`: A box with a red border, margins, and height.
+
+- **List Styling**: The `.list` class adds margin to list elements.
+  - `.li`: List items are styled with red borders.
+
+- **Button and Link Styling**:
+  - `.btn`: Styling for buttons with a red border and margin.
+  - `.link`: Styling for links with a red border and margin.
+
+- **Paragraph Styling**:
+  - `.p2`: Additional margin styling for paragraphs.
+
+## Usage
+
+To use these CSS styles in your HTML:
+
+1. Link the CSS file (`style2.css`) to your HTML file in the `<head>` section:
+
+   ```html
+   <link rel="stylesheet" href="path/to/style2.css">
