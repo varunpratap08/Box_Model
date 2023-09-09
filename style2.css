@@ -1,0 +1,58 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+}
+.outer
+{
+    border: 2px solid red;
+    height: 360px;
+    width: 400px;
+    margin: 50px;
+}
+.inner
+{
+    border: 2px solid red;
+    
+    height: 50px;
+    margin: 20px;
+    
+}
+.inner2
+{
+    border: 2px solid red;
+    margin: 20px;
+    height: 110px;
+    
+    padding: 5px;
+}
+.inner3
+{
+    border: 2px solid red;
+    margin: 20px;
+    height: 65px;
+}
+.list
+{
+    
+    margin: 5px;
+    
+}
+.li
+{
+    border: 2px solid red;
+}
+.btn
+{
+    border: 2px solid red;
+    margin:5px ;
+}
+.link
+{
+    border: 2px solid red;
+    margin: 5px;
+}
+.p2
+{
+    margin: 20px;
+}
